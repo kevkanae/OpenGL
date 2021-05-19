@@ -1,0 +1,13 @@
+﻿Color Cube.obj : error LNK2019: unresolved external symbol glutInit referenced in function main
+Color Cube.obj : error LNK2019: unresolved external symbol glutInitDisplayMode referenced in function main
+Color Cube.obj : error LNK2019: unresolved external symbol glutInitWindowSize referenced in function main
+Color Cube.obj : error LNK2019: unresolved external symbol glutMainLoop referenced in function main
+Color Cube.obj : error LNK2019: unresolved external symbol glutCreateWindow referenced in function main
+Color Cube.obj : error LNK2019: unresolved external symbol glutPostRedisplay referenced in function "void __cdecl spinCube(void)" (?spinCube@@YAXXZ)
+Color Cube.obj : error LNK2019: unresolved external symbol glutSwapBuffers referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+Color Cube.obj : error LNK2019: unresolved external symbol glutDisplayFunc referenced in function main
+Color Cube.obj : error LNK2019: unresolved external symbol glutReshapeFunc referenced in function main
+Color Cube.obj : error LNK2019: unresolved external symbol glutMouseFunc referenced in function main
+Color Cube.obj : error LNK2019: unresolved external symbol glutIdleFunc referenced in function main
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\lib\x64\glut32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\kevka\Desktop\VI\CG Lab\OpenGL-Programs\Color Cube\x64\Debug\Color Cube.exe : fatal error LNK1120: 11 unresolved externals
