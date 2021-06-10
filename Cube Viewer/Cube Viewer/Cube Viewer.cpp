@@ -1,6 +1,7 @@
 #include <stdlib.h>
 #include <GL/glut.h>
-
+#include <GL/GL.h>
+#include <gl/GLU.h>
 GLfloat vertices[][3] = { {-1,-1,-1},{1,-1,-1}, {1,1,-1},{-1,1,-1},
 {-1,-1,1},{1,-1,1},{1,1,1},{-1,1,1} };
 GLfloat colors[][3] = { {1,0,0},{1,1,0},{0,1,0},{0,0,1},
